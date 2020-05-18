@@ -8,3 +8,5 @@
      ■ 依照成績/年齡升降排序顯示
 
      ■ 儲存於資料庫
+Menu:
+![](https://github.com/rs9960821/Student-Information/blob/master/menu.PNG?raw=true)
